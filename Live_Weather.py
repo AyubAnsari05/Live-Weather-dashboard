@@ -146,7 +146,7 @@ def main():
             break
 
         else:
-            print("Invalid choice")
+            print("Invalid choic")
 
 if __name__ == "__main__":
 
